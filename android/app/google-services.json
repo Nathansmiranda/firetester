@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "803132658202",
+    "project_id": "fir-tester-9e30b",
+    "storage_bucket": "fir-tester-9e30b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803132658202:android:8e139cf1d842b68fd577a3",
+        "android_client_info": {
+          "package_name": "com.example.firetester"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803132658202-b4fmuuafrfkds17br5giapej7it6bvqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVjp_icdLeH6A0QgjUvDIKfjKsHfZnmOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803132658202-b4fmuuafrfkds17br5giapej7it6bvqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
