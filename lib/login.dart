@@ -28,7 +28,7 @@ class _LoginState extends State<Login> {
               onPressed: () async {
                 final result = await _auth.signInAnon();
                 if (result==null) {
-                  print('errorrrr');
+                  print('error 2');
                 } else {
                   print('signed in');
                   print(result);
